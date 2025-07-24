@@ -11,3 +11,7 @@ pipeline/data/
 /.DS_Store
 ./ragatouille/
 src/llm/llm_embedder/*
+*.md
+*.json
+*.faiss
+*.metadata
